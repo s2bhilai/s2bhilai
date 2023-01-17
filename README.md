@@ -3,15 +3,12 @@
 [![](https://img.shields.io/badge/-@s2bhilai-%23181717?style=flat-square&logo=github)](https://github.com/s2bhilai)
 [![](https://img.shields.io/badge/-Subin%20Sadanandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subin-sadanandan-99194636/)](https://www.linkedin.com/in/subin-sadanandan-99194636/)
 
-### Hi there 👋
+# Hey, I am Subin! 👋
 
-#### I am Subin Sadanandan
+#### I am a back end developer working on NET CORE ecosystem. Also worked on front end JS frameworks, primarily on React.
 
-> - primarily a back end developer working on NET CORE.
-> - worked on front end JS frameworks, primarily on React.
-> - Interested in security side of things.
+#### Interested in exploring more on the security side and to implement devops.   
 
-![](https://vistr.dev/badge?repo=s2bhilai.microservice_az_k8s)
 
 <!--
 **s2bhilai/s2bhilai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
