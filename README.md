@@ -11,6 +11,8 @@
 > - worked on front end JS frameworks, primarily on React.
 > - Interested in security side of things.
 
+![](https://vistr.dev/badge?repo=s2bhilai.microservice_az_k8s)
+
 <!--
 **s2bhilai/s2bhilai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
