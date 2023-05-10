@@ -7,7 +7,7 @@
 
 #### I am a back end developer working on NET CORE ecosystem. Also worked on front end JS frameworks, primarily on React.
 
-#### Interested in exploring more on the security side and to implement devops.   
+#### Interested in exploring more on the security and devops things.   
 
 
 <!--
