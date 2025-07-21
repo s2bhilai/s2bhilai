@@ -3,11 +3,25 @@
 [![](https://img.shields.io/badge/-@s2bhilai-%23181717?style=flat-square&logo=github)](https://github.com/s2bhilai)
 [![](https://img.shields.io/badge/-Subin%20Sadanandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subin-sadanandan-99194636/)](https://www.linkedin.com/in/subin-sadanandan-99194636/)
 
-# Hey, I am Subin! 👋
+## Hi there! 👋 I'm Subin Sadanandan
 
-#### I am a back end developer working on NET CORE ecosystem. Also worked on front end JS frameworks, primarily on React.
+**Senior Software Engineer** with **13+ years** of experience building enterprise web and desktop applications using Microsoft Technologies.
 
-#### Interested in exploring more on the security and devops things.   
+🛠️ **Tech Stack:**
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, GRPC Services
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript ES6
+- **Cloud & DevOps:** Azure Services, AWS Services, Kubernetes, GitHub Actions, Docker
+- **Databases:** Oracle PL/SQL, SQL Server, Postgres
+- **Tools:** Git, Azure DevOps, TFS
+
+🏆 **Microsoft Certified:** Azure Developer Associate, DevOps Engineer Expert, Kubernetes Application Developer
+
+📍 Based in Doha, Qatar | 🎓 Computer Science Engineering
+
+💡 Passionate about solving complex problems, optimizing performance, and staying current with modern development practices.
+
+---
+*Feel free to explore my repositories and connect with me!*
 
 
 <!--
